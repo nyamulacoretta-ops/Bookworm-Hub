@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Corie",
+    "age": 20,
+    "Books": [
+      {
+        "author":"Audre Lorde",
+        "title": "Sister Outside",
+        "year of publication": 1984,
+        "edition": 2
+      },
+
+      {
+        "author":"Markus Zusak",
+        "title": "The Book Thief",
+        "year of publication": 2008,
+        "edition": 1
+      },
+
+      {
+        "author":"Frank Kafka",
+        "title": "The Burrow",
+        "year of publication":1996,
+        "edition": 3
+      }
+      ]
+  },
+  {
+    "name": "Jolene",
+    "age": 18,
+    "Books": [
+      {
+        "author": "Frank Kafka",
+        "title": "The Metarmorphosis",
+        "year of publication": 1996,
+        "edition": 1
+      },
+      {
+        "author": "Dazai Osamu",
+        "title": "No Longer Human",
+        "year of publication": 2012,
+        "edition": 1
+      },
+      {
+        "author": "Fyodor Dostoevsky",
+        "title": "White Nights",
+        "year of publication": 1848,
+        "edition": 1     }
+    ]
+  }
+]
+
