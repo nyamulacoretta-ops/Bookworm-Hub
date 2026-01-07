@@ -1,0 +1,13 @@
+*.exe
+*.exe~
+*.dll
+*.dylib
+
+.idea/
+*.iml
+
+.env
+*log
+logs/
+
+*.test
